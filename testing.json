@@ -1,0 +1,42 @@
+{
+    "employees": [
+        {
+            "id": "001",
+            "name": "John Doe",
+            "position": "Software Engineer",
+            "department": "Engineering",
+            "salary": 75000
+        },
+        {
+            "id": "002",
+            "name": "Jane Smith",
+            "position": "Sales Manager",
+            "department": "Sales",
+            "salary": 90000
+        },
+        {
+            "id": "003",
+            "name": "Mark Johnson",
+            "position": "Product Manager",
+            "department": "Product",
+            "salary": 85000
+        }
+    ],
+    "departments": [
+        {
+            "name": "Engineering",
+            "location": "San Francisco",
+            "head": "Michael Brown"
+        },
+        {
+            "name": "Sales",
+            "location": "New York",
+            "head": "Emily Davis"
+        },
+        {
+            "name": "Product",
+            "location": "Los Angeles",
+            "head": "David Wilson"
+        }
+    ]
+}
